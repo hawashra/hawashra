@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <div style="display:inline-block;">
-    <img src="https://i.pinimg.com/564x/47/f9/60/47f96020e4fa0aff6f92f6d1ec10096e.jpg" alt="Guts" width="900" height="400" />
+    <img src="https://butwhytho.net/wp-content/uploads/2023/06/Demon-Slayer-Hashira-But-Why-Tho7.jpg" alt="Giyu" width="900" height="400" />
     <h2>Overview & Statistics 📈</h2>
       <img alt="Hamza Awashra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hawashra&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3AC301&icon_color=3AC301&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff" height="192px"/>
        <a href="https://github.com/anuraghazra/github-readme-stats">
