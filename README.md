@@ -21,7 +21,7 @@
    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/hawashra/github-readme-stats">
     <div style="display:inline-block;">
     <img src="https://butwhytho.net/wp-content/uploads/2023/06/Demon-Slayer-Hashira-But-Why-Tho7.jpg" alt="Giyu" width="647" height="332" />
     <h2>Overview & Statistics 📈</h2>
