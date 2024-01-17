@@ -24,9 +24,6 @@
   <a href="https://github.com/hawashra/github-readme-stats">
     <div style="display:inline-block;">
     <img src="https://butwhytho.net/wp-content/uploads/2023/06/Demon-Slayer-Hashira-But-Why-Tho7.jpg" alt="Giyu" width="647" height="332" />
-    <h2>Overview & Statistics 📈</h2>
-      <img alt="Hamza Awashra's Top Languages" src="https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=hawashra&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3AC301&icon_color=3AC301&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff" height="192px"/>
-       <a href="https://github.com/hawashra/github-readme-stats">
     <div style="display:inline-block;">
       <img alt="Hamza Awashra's Github Stats" src="github-readme-stats-hawashra.vercel.app?username=hawashra&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117&title_color=3AC301&icon_color=3AC301&text_color=FFFFFF" height="192px"/>
      </div>
