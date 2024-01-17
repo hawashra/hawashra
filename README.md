@@ -25,7 +25,6 @@
     <div style="display:inline-block;">
     <img src="https://butwhytho.net/wp-content/uploads/2023/06/Demon-Slayer-Hashira-But-Why-Tho7.jpg" alt="Giyu" width="647" height="332" />
     <div style="display:inline-block;">
-      <img alt="Hamza Awashra's Github Stats" src="github-readme-stats-hawashra.vercel.app?username=hawashra&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117&title_color=3AC301&icon_color=3AC301&text_color=FFFFFF" height="192px"/>
      </div>
      <h2> 💻 Problem solving websites & Socials</h2>
      <br>
