@@ -28,7 +28,7 @@
       <img alt="Hamza Awashra's Top Languages" src="https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=hawashra&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3AC301&icon_color=3AC301&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff" height="192px"/>
        <a href="https://github.com/hawashra/github-readme-stats">
     <div style="display:inline-block;">
-      <img alt="Hamza Awashra's Github Stats" src="https://github.com/anuraghazra/github-readme-stats/api/?username=hawashra&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117&title_color=3AC301&icon_color=3AC301&text_color=FFFFFF" height="192px"/>
+      <img alt="Hamza Awashra's Github Stats" src="github-readme-stats-hawashra.vercel.app?username=hawashra&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117&title_color=3AC301&icon_color=3AC301&text_color=FFFFFF" height="192px"/>
      </div>
      <h2> 💻 Problem solving websites & Socials</h2>
      <br>
