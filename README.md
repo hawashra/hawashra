@@ -1,4 +1,5 @@
-<h1 align=center>Hi, I am Hamza Awashra!👋</h1>
+# Hi, I am Hamza Awashra!👋
+
  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AC301&background=FF541E00&center=true&vCenter=true&width=1300&lines=Computer+Engineering+Student;Welcome+to+my+github!" alt="Typing SVG" />
 </a>
@@ -14,11 +15,8 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ badge" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python badge" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java badge" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github badge" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux badge" />
-   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" />
   <a href="https://github.com/hawashra/github-readme-stats">
@@ -48,3 +46,9 @@
    <a href="mailto:hamzaawashra100@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
+   <h2> Overview & Statistics 📈</h2>
+
+<img align = "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hawashra&show_icons=true&theme=radical" />
+<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawashra&layout=compact" />
+
+   
