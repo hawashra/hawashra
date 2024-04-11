@@ -48,7 +48,7 @@
    </a>
    <h2> Overview & Statistics 📈</h2>
 
-<img align = "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hawashra&show_icons=true&theme=radical" />
-<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawashra&layout=compact" />
+<img align = "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hawashra&show_icons=true&theme=transparent" />
+<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawashra&layout=compact&theme=transparent" />
 
    
